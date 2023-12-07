@@ -1,0 +1,60 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/d4nm0/othertest.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+[branch "int"]
+	remote = origin
+	merge = refs/heads/int
+[branch "test"]
+	remote = origin
+	merge = refs/heads/test
+[branch "prod"]
+	remote = origin
+	merge = refs/heads/prod
+[branch "DtestdeliveBranchRepo"]
+	remote = origin
+	merge = refs/heads/DtestdeliveBranchRepo
+[branch "S1209"]
+	remote = origin
+	merge = refs/heads/S1209
+[branch "D2023-09-15"]
+	remote = origin
+	merge = refs/heads/D2023-09-15
+[branch "D2023-09-08"]
+	remote = origin
+	merge = refs/heads/D2023-09-08
+[branch "S1206"]
+	remote = origin
+	merge = refs/heads/S1206
+[branch "S1207"]
+	remote = origin
+	merge = refs/heads/S1207
+[branch "S1208"]
+	remote = origin
+	merge = refs/heads/S1208
+[branch "S1212"]
+	remote = origin
+	merge = refs/heads/S1212
+[branch "S1211"]
+	remote = origin
+	merge = refs/heads/S1211
+[branch "S1213"]
+	remote = origin
+	merge = refs/heads/S1213
+[branch "S1214"]
+	remote = origin
+	merge = refs/heads/S1214
+[branch "S1215"]
+	remote = origin
+	merge = refs/heads/S1215

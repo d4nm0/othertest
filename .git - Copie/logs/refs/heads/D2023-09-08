@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860602 +0100	branch: Created from int
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 2f879a10e041a2f03658426ebc01a0b23fd2e5df Dan Monceau <dan@eisge.com> 1701881347 +0100	merge S1214: Fast-forward (no commit created; -m option ignored)
+2f879a10e041a2f03658426ebc01a0b23fd2e5df 9066424ccdd048c582e11f04a5ee4aa16b97adc2 Dan Monceau <dan@eisge.com> 1701881541 +0100	commit (merge): "Merge branch S1215 to D2023-09-08."
+9066424ccdd048c582e11f04a5ee4aa16b97adc2 3f5ed24fd22aad784c8587e2a25e2aaa1aba6801 Dan Monceau <dan@eisge.com> 1701940138 +0100	commit (merge): "Merge branch S1215 to D2023-09-08."
+3f5ed24fd22aad784c8587e2a25e2aaa1aba6801 705d76cd6a85b796ac1ca67064b41fc37d918ada Dan Monceau <dan@eisge.com> 1701940409 +0100	merge S1215: Merge made by the 'ort' strategy.

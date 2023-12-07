@@ -1,0 +1,68 @@
+0000000000000000000000000000000000000000 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995661 +0200	commit (initial): "First commit"
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 0000000000000000000000000000000000000000 Dan Monceau <dan@eisge.com> 1695995661 +0200	Branch: renamed refs/heads/main to refs/heads/main
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995661 +0200	Branch: renamed refs/heads/main to refs/heads/main
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995673 +0200	checkout: moving from main to main
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995673 +0200	checkout: moving from main to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995675 +0200	checkout: moving from dev to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995677 +0200	checkout: moving from dev to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995677 +0200	checkout: moving from dev to int
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995679 +0200	checkout: moving from int to int
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995680 +0200	checkout: moving from int to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995680 +0200	checkout: moving from dev to test
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995682 +0200	checkout: moving from test to test
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995683 +0200	checkout: moving from test to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995683 +0200	checkout: moving from dev to prod
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995685 +0200	checkout: moving from prod to prod
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995708 +0200	checkout: moving from prod to int
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995708 +0200	checkout: moving from int to DtestdeliveBranchRepo
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995710 +0200	checkout: moving from DtestdeliveBranchRepo to DtestdeliveBranchRepo
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995891 +0200	checkout: moving from DtestdeliveBranchRepo to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995891 +0200	checkout: moving from dev to S1209
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1695995893 +0200	checkout: moving from S1209 to S1209
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1698235496 +0200	checkout: moving from S1209 to int
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1698235496 +0200	checkout: moving from int to D2023-09-15
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1698235499 +0200	checkout: moving from D2023-09-15 to D2023-09-15
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860602 +0100	checkout: moving from D2023-09-15 to int
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860602 +0100	checkout: moving from int to D2023-09-08
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860620 +0100	checkout: moving from D2023-09-08 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860620 +0100	checkout: moving from dev to S1206
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860650 +0100	checkout: moving from S1206 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860651 +0100	checkout: moving from dev to S1207
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860688 +0100	checkout: moving from S1207 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701860688 +0100	checkout: moving from dev to S1208
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 93773a2b2ccd54d002ffc0db19f0269a12b9ae7c Dan Monceau <dan@eisge.com> 1701869249 +0100	commit: S 1208 -
+93773a2b2ccd54d002ffc0db19f0269a12b9ae7c 09b0664f0c259ac034b2150d40c354b3047165bb Dan Monceau <dan@eisge.com> 1701869292 +0100	commit: S 1208 - luiipiupui
+09b0664f0c259ac034b2150d40c354b3047165bb 803d92f3c9a7de1df15d67488d352f214418fb38 Dan Monceau <dan@eisge.com> 1701872467 +0100	commit: S 1208 - fdsdfsdfds
+803d92f3c9a7de1df15d67488d352f214418fb38 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701872549 +0100	checkout: moving from S1208 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701872549 +0100	checkout: moving from dev to S1212
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 85ae846854f554ffd29cb0f938ef390b5f447d71 Dan Monceau <dan@eisge.com> 1701872577 +0100	commit: S 1212 - hgfhfgh
+85ae846854f554ffd29cb0f938ef390b5f447d71 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701872625 +0100	checkout: moving from S1212 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701872625 +0100	checkout: moving from dev to S1211
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 b2f58138473d899241cd11174f9c1688aad3688a Dan Monceau <dan@eisge.com> 1701872644 +0100	commit: S 1211 - bcbv
+b2f58138473d899241cd11174f9c1688aad3688a ee19b3407960943b4477574cc6c924914f3fff49 Dan Monceau <dan@eisge.com> 1701881080 +0100	commit: S 1211 - fdsfdfsd
+ee19b3407960943b4477574cc6c924914f3fff49 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701881108 +0100	checkout: moving from S1211 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701881108 +0100	checkout: moving from dev to S1213
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 2849231e1eefe1f2da52b39250c9846c51c0a0d6 Dan Monceau <dan@eisge.com> 1701881123 +0100	commit: S 1213 - sdffsdfsd
+2849231e1eefe1f2da52b39250c9846c51c0a0d6 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701881163 +0100	checkout: moving from S1213 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701881163 +0100	checkout: moving from dev to S1214
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 2f879a10e041a2f03658426ebc01a0b23fd2e5df Dan Monceau <dan@eisge.com> 1701881197 +0100	commit: S 1214 - testt
+2f879a10e041a2f03658426ebc01a0b23fd2e5df 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701881347 +0100	checkout: moving from S1214 to D2023-09-08
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 2f879a10e041a2f03658426ebc01a0b23fd2e5df Dan Monceau <dan@eisge.com> 1701881347 +0100	merge S1214: Fast-forward (no commit created; -m option ignored)
+2f879a10e041a2f03658426ebc01a0b23fd2e5df 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701881477 +0100	checkout: moving from D2023-09-08 to dev
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 41d05ba9162aca97c5ed17dbeacf4a777c591a90 Dan Monceau <dan@eisge.com> 1701881477 +0100	checkout: moving from dev to S1215
+41d05ba9162aca97c5ed17dbeacf4a777c591a90 c58168cebf699f6c56fc2c01df5a120c22c9b497 Dan Monceau <dan@eisge.com> 1701881507 +0100	commit: S 1215 - ggggg
+c58168cebf699f6c56fc2c01df5a120c22c9b497 2f879a10e041a2f03658426ebc01a0b23fd2e5df Dan Monceau <dan@eisge.com> 1701881522 +0100	checkout: moving from S1215 to D2023-09-08
+2f879a10e041a2f03658426ebc01a0b23fd2e5df 9066424ccdd048c582e11f04a5ee4aa16b97adc2 Dan Monceau <dan@eisge.com> 1701881541 +0100	commit (merge): "Merge branch S1215 to D2023-09-08."
+9066424ccdd048c582e11f04a5ee4aa16b97adc2 c58168cebf699f6c56fc2c01df5a120c22c9b497 Dan Monceau <dan@eisge.com> 1701881559 +0100	checkout: moving from D2023-09-08 to S1215
+c58168cebf699f6c56fc2c01df5a120c22c9b497 9066424ccdd048c582e11f04a5ee4aa16b97adc2 Dan Monceau <dan@eisge.com> 1701881562 +0100	checkout: moving from S1215 to D2023-09-08
+9066424ccdd048c582e11f04a5ee4aa16b97adc2 c58168cebf699f6c56fc2c01df5a120c22c9b497 Dan Monceau <dan@eisge.com> 1701935771 +0100	checkout: moving from D2023-09-08 to S1215
+c58168cebf699f6c56fc2c01df5a120c22c9b497 84bb92161ad44ba39a95a9f3f1175c45a27d29b5 Dan Monceau <dan@eisge.com> 1701940023 +0100	commit: S 1215 - gdfgfdgdg
+84bb92161ad44ba39a95a9f3f1175c45a27d29b5 9066424ccdd048c582e11f04a5ee4aa16b97adc2 Dan Monceau <dan@eisge.com> 1701940041 +0100	checkout: moving from S1215 to D2023-09-08
+9066424ccdd048c582e11f04a5ee4aa16b97adc2 3f5ed24fd22aad784c8587e2a25e2aaa1aba6801 Dan Monceau <dan@eisge.com> 1701940138 +0100	commit (merge): "Merge branch S1215 to D2023-09-08."
+3f5ed24fd22aad784c8587e2a25e2aaa1aba6801 84bb92161ad44ba39a95a9f3f1175c45a27d29b5 Dan Monceau <dan@eisge.com> 1701940345 +0100	checkout: moving from D2023-09-08 to S1215
+84bb92161ad44ba39a95a9f3f1175c45a27d29b5 f260c8ad5eb82b9f615435b367a982bdc993d1dc Dan Monceau <dan@eisge.com> 1701940404 +0100	commit: S 1215 - dgdgd
+f260c8ad5eb82b9f615435b367a982bdc993d1dc 3f5ed24fd22aad784c8587e2a25e2aaa1aba6801 Dan Monceau <dan@eisge.com> 1701940409 +0100	checkout: moving from S1215 to D2023-09-08
+3f5ed24fd22aad784c8587e2a25e2aaa1aba6801 705d76cd6a85b796ac1ca67064b41fc37d918ada Dan Monceau <dan@eisge.com> 1701940409 +0100	merge S1215: Merge made by the 'ort' strategy.
+705d76cd6a85b796ac1ca67064b41fc37d918ada f260c8ad5eb82b9f615435b367a982bdc993d1dc Dan Monceau <dan@eisge.com> 1701940425 +0100	checkout: moving from D2023-09-08 to S1215
+f260c8ad5eb82b9f615435b367a982bdc993d1dc c98b162032395d5d9e55c6ebcb666224fda63e9b Dan Monceau <dan@eisge.com> 1701940433 +0100	commit: S 1215 - test
+c98b162032395d5d9e55c6ebcb666224fda63e9b 705d76cd6a85b796ac1ca67064b41fc37d918ada Dan Monceau <dan@eisge.com> 1701940438 +0100	checkout: moving from S1215 to D2023-09-08
